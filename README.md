@@ -23,7 +23,7 @@ Updated: June, 2026
 
 ## Using LLMs
 
-Create an account on Anthropic Academy.
+Create an account on Anthropic Academy - [https://anthropic.skilljar.com/](https://anthropic.skilljar.com/)
 
 Complete the following courses:
 * Claude 101
@@ -87,3 +87,10 @@ The **SKILL.md body** contains the actual instructions Claude follows when the s
 - Building a Vapi caller for Law Firms - [https://youtu.be/kIyYnhFwaw4?si=r1SMiDyaisqt_h5u](https://youtu.be/kIyYnhFwaw4?si=r1SMiDyaisqt_h5u)
 - https://docs.vapi.ai/debugging
 - Voice AI agent in minutes - [https://www.youtube.com/watch?v=n64lzhgld8M](https://www.youtube.com/watch?v=n64lzhgld8M)
+
+## Claude Certified Developer Foundations Certification
+
+This is for trainees who are asked to complete Claude Certified Developer Foundations certification.
+
+* Ask your mentor for access to [https://anthropic-partners.skilljar.com/](https://anthropic-partners.skilljar.com/)
+* Complete the course - [https://anthropic-partners.skilljar.com/claude-certified-developer-foundations-certification?next=%2Fclaude-certified-developer-foundations-certification%2F487924](https://anthropic-partners.skilljar.com/claude-certified-developer-foundations-certification?next=%2Fclaude-certified-developer-foundations-certification%2F487924)
